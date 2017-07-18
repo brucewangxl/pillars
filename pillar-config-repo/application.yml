@@ -1,0 +1,4 @@
+# config server prot
+server:
+  prot:8080
+          
